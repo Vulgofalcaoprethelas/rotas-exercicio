@@ -1,7 +1,10 @@
 {
-  "name": "rota-exercicio",
+  "name": "rotas-lorenzo",
   "main": "expo-router/entry",
   "version": "1.0.0",
+  "description": "Projeto reformulado por Lorenzo",
+  "author": "Lorenzo",
+  "license": "MIT",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
